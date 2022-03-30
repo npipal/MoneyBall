@@ -34,6 +34,8 @@ Hypertuned Random Forest Model Evaluation:
 - RF_GS Testing R2: 0.5656202746214216
 
 
+
+
 Below you will find different visuals exploring the data:
 
 ![HeatMap MoneyBall](https://user-images.githubusercontent.com/97055926/160733950-6c66f43d-8d73-40d7-939c-3b1fc0fd404c.png)
