@@ -22,6 +22,7 @@ Default Random Forest Model Evaluation:
 - RF Training R2: 0.9432542413049043
 - RF Testing R2: 0.5700558164862841
 
+
 Hypertuned Random Forest Model Evaluation:
 
 - RF_GS Training RMSE: 0.21924717649978334
