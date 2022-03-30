@@ -9,7 +9,7 @@ At first glance when finding the r2 values it was 0.92 training score, and 0.57 
 The overall goal of this project is to help predict whether or not a team will make the Playoffs. The feature columns that are taken into consideration are League, Year, RunsScored, RunsAllowed, Wins, OnBasePercentage, SluggingPercentage, Batting Average, and GamesPlayed. With the target columns being whether or not the team made the Playoffs
 
 
-Below you will find the scores of each model and their scores after manipulating the hyperparameters:
+Below you will find the scores of the Default Model Evaluation for RandomForest and the Hypertuned Model for RandomForest:
 
 Default Random Forest Model Evaluation:
 
@@ -32,69 +32,3 @@ Hypertuned Random Forest Model Evaluation:
 ------
 - RF_GS Training R2: 0.6998102950546445
 - RF_GS Testing R2: 0.5656202746214216
-
-Default KNeighborsRegressor Model Evaluation:
-
-- KNN Training RMSE: 0.22215006043359375
-- KNN Testing RMSE: 0.2835306163179038
-------
-- KNN Training MAE: 0.3269960350316299
-- KNN Testing MAE: 0.3839304590711675
-------
-- KNN Training R2: 0.6918085067476136
-- KNN Testing R2: 0.48090123204683133
-
-Hypertuned KNeighborsRegressor Model Evaluation:
-
-- KNN_GS Training RMSE: 0.22215006043359375
-- KNN_GS Testing RMSE: 0.2835306163179038
-------
-- KNN_GS Training MAE: 0.3269960350316299
-- KNN_GS Testing MAE: 0.3839304590711675
-------
-- KNN_GS Training R2: 0.6918085067476136
-- KNN_GS Testing R2: 0.48090123204683133
-
-Default BaggingRegressor Model Evaluation:
-
-- BAGREG Training RMSE: 0.10999803225315942
-- BAGREG Testing RMSE: 0.27261361267952455
-------
-- BAGREG Training MAE: 0.2091003197581097
-- BAGREG Testing MAE: 0.3461288702278312
-------
-- BAGREG Training R2: 0.9244390154701386
-- BAGREG Testing R2: 0.5201061874617112
-
-Hypertuned BaggingRegressor Model Evaluation:
-
-- BAGREG_GS Training RMSE: 0.24481462197793483
-- BAGREG_GS Testing RMSE: 0.27544533009315997
-------
-- BAGREG_GS Training MAE: 0.3452836214198108
-- BAGREG_GS Testing MAE: 0.36055512754639896
-------
-- BAGREG_GS Training R2: 0.6257149486157335
-- BAGREG_GS Testing R2: 0.5100848138315976
-
-Default DecisionTree Model Evaluation:
-
-- DECTREE Training RMSE: 0.0
-- DECTREE Testing RMSE: 0.34188172937891387
-------
-- DECTREE Training MAE: 0.0
-- DECTREE Testing MAE: 0.34188172937891387
-------
-- DECTREE Training R2: 1.0
-- DECTREE Testing R2: 0.24525219522156416
-
-Hypertuned DecisionTree Model Evaluation:
-
-- DECTREE_GS Training RMSE: 0.24573621425166406
-- DECTREE_GS Testing RMSE: 0.27610234305612574
-------
-- DECTREE_GS Training MAE: 0.347523486960924
-- DECTREE_GS Testing MAE: 0.3654821423817536
-------
-- DECTREE_GS Training R2: 0.6228916902664601
-- DECTREE_GS Testing R2: 0.5077448611816449
