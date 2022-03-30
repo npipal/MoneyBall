@@ -48,17 +48,19 @@ There is a strong relationship between our Playoff(target) with a couple of feat
 There is also a strong relationship between the features of the dataset being RunScored, Wins, OnBasePercentage, SluggingPercentage, and Batting Average.
 
 
+![Runs Scored](https://user-images.githubusercontent.com/97055926/160735636-5ee65c0e-dc8b-42b9-b830-101a0eefb0d9.png)
 
 
 There are a couple of outliers in this data for RunsScored but everything is plausible. The outliers that are above 950 are a good bet to most likely be teams that do in fact make the playoffs. The outliers that are below 500 are teams that more than likely do not make the playoffs.
 
 
+![Wins](https://user-images.githubusercontent.com/97055926/160735669-1131aa4e-e39d-49b1-b415-0db83691ef7a.png)
 
 
 There are a couple of outliers in the data for Wins but everything is plausible. Outliers that are above 100 are teams that more than likely made the playoffs since they play a total of 162 games in the regular season. The outliers that are below 50 are teams who most likely did not make the playoffs. 
 
 
-
+![OBP](https://user-images.githubusercontent.com/97055926/160735691-a758641d-bfd6-40dc-9168-14dd406ce6e9.png)
 
 There are some outliers in the data for OnBasePercentage but everything is plausible. OUtliers that are above .36 are teams who more than likely did make the playoffs. The outliers that are below .30 are teams who more than likely did not make the playoffs.
 
@@ -69,5 +71,6 @@ There are some outliers in the data for OnBasePercentage but everything is plaus
 There are a couple of outliers in the data for SluggingPercentage but everything is plausible. Outliers that are above .475 are teams who more than likely made the playoffs. The outliers that are below .325 are teams who more than likely do not make the playoffs. 
 
 
+![BA](https://user-images.githubusercontent.com/97055926/160735731-4b5de40e-63e9-40e3-80eb-421ab4100887.png)
 
 There are some outliers in the data for BattingAverage but everything is plausible. Outliers that are above .290 are teams who more than likely make the playoffs. The outliers that are below .230 are teams who more than likely did not make the playoffs.
