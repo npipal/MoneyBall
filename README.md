@@ -61,7 +61,8 @@ There are a couple of outliers in the data for Wins but everything is plausible.
 
 There are some outliers in the data for OnBasePercentage but everything is plausible. OUtliers that are above .36 are teams who more than likely did make the playoffs. The outliers that are below .30 are teams who more than likely did not make the playoffs.
 
-![SLG](https://user-images.githubusercontent.com/97055926/160734367-7694ef14-dc3d-4eec-a126-2f6f30f25b7e.png)
+
+![SLG](https://user-images.githubusercontent.com/97055926/160735228-f9902adc-d0b7-453c-8475-ec6346fb553a.png)
 
 
 There are a couple of outliers in the data for SluggingPercentage but everything is plausible. Outliers that are above .475 are teams who more than likely made the playoffs. The outliers that are below .325 are teams who more than likely do not make the playoffs. 
