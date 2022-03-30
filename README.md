@@ -32,3 +32,36 @@ Hypertuned Random Forest Model Evaluation:
 ------
 - RF_GS Training R2: 0.6998102950546445
 - RF_GS Testing R2: 0.5656202746214216
+
+
+Below you will find different visuals exploring the data:
+
+![HeatMap MoneyBall](https://user-images.githubusercontent.com/97055926/160733950-6c66f43d-8d73-40d7-939c-3b1fc0fd404c.png)
+
+
+There is a strong relationship between our Playoff(target) with a couple of features being RunScored, Wins, OnBasePercentage, SluggingPercentage, and Batting Average.
+There is also a strong relationship between the features of the dataset being RunScored, Wins, OnBasePercentage, SluggingPercentage, and Batting Average.
+
+![Runs Scored](https://user-images.githubusercontent.com/97055926/160734065-7ee672e7-8c52-4bc4-9124-aefd1464fb35.png)
+
+
+There are a couple of outliers in this data for RunsScored but everything is plausible. The outliers that are above 950 are a good bet to most likely be teams that do in fact make the playoffs. The outliers that are below 500 are teams that more than likely do not make the playoffs.
+
+![Wins](https://user-images.githubusercontent.com/97055926/160734147-71ae9314-51ea-4937-8745-599c29f3dd47.png)
+
+
+There are a couple of outliers in the data for Wins but everything is plausible. Outliers that are above 100 are teams that more than likely made the playoffs since they play a total of 162 games in the regular season. The outliers that are below 50 are teams who most likely did not make the playoffs. 
+
+![OBP](https://user-images.githubusercontent.com/97055926/160734345-db27bc41-bf99-46db-b357-d684bc7811c4.png)
+
+
+There are some outliers in the data for OnBasePercentage but everything is plausible. OUtliers that are above .36 are teams who more than likely did make the playoffs. The outliers that are below .30 are teams who more than likely did not make the playoffs.
+
+![SLG](https://user-images.githubusercontent.com/97055926/160734367-7694ef14-dc3d-4eec-a126-2f6f30f25b7e.png)
+
+
+There are a couple of outliers in the data for SluggingPercentage but everything is plausible. Outliers that are above .475 are teams who more than likely made the playoffs. The outliers that are below .325 are teams who more than likely do not make the playoffs. 
+
+![BA](https://user-images.githubusercontent.com/97055926/160734396-a911185a-5716-48d1-b8c6-eac52154ecc6.png)
+
+There are some outliers in the data for BattingAverage but everything is plausible. Outliers that are above .290 are teams who more than likely make the playoffs. The outliers that are below .230 are teams who more than likely did not make the playoffs.
