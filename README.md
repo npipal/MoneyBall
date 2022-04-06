@@ -76,11 +76,11 @@ There are a couple of outliers in the data for SluggingPercentage but everything
 There are some outliers in the data for BattingAverage but everything is plausible. Outliers that are above .290 are teams who more than likely make the playoffs. The outliers that are below .230 are teams who more than likely did not make the playoffs.
 
 
-![BASLG](https://user-images.githubusercontent.com/97055926/162072184-9e6f6920-52e8-469e-9c6e-23a547935be4.png)
+![BASLG1](https://user-images.githubusercontent.com/97055926/162072557-8e7803e2-f3d7-4391-a5ae-405ae1e8037e.png)
 
 After viewing the graph above we can see that teams who have a higher batting average and slugging percentage more often that not have a better chance of making the playoffs. Although there are a few outliers in this case there are teams who did not make the playoffs with a high BA and SLG as well as teams who did make the playoffs with a low BA and SLG.
 
 
-![RSOBP](https://user-images.githubusercontent.com/97055926/162072272-33faa810-ad30-4dc7-a185-df2ae8d39806.png)
+![RSOBP1](https://user-images.githubusercontent.com/97055926/162072612-1cae9985-4d46-4bbe-b0d1-9309e8e6c04b.png)
 
 After examining the graph we can see that teams who have a higher on-base percentage and total runs scored for the year are more than likely to make the playoffs that given year. Although we do see some outliers on both sides where teams who did make the playoffs but did not score a lot of runs and had a low on base percentage. As well as teams who did not make the playoffs who scored a lot of runs and had a high on-base percentage.
