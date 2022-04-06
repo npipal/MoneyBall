@@ -83,4 +83,4 @@ After viewing the graph above we can see that teams who have a higher batting av
 
 ![RSOBP1](https://user-images.githubusercontent.com/97055926/162072612-1cae9985-4d46-4bbe-b0d1-9309e8e6c04b.png)
 
-After examining the graph we can see that teams who have a higher on-base percentage and total runs scored for the year are more than likely to make the playoffs that given year. Although we do see some outliers on both sides where teams who did make the playoffs but did not score a lot of runs and had a low on base percentage. As well as teams who did not make the playoffs who scored a lot of runs and had a high on-base percentage.
+After examining the graph we can see that teams who have a higher on-base percentage and total runs scored for the year are more than likely going to make the playoffs that given year. Although we do see some outliers on both sides where teams who did make the playoffs but did not score a lot of runs and had a low on base percentage. As well as teams who did not make the playoffs who scored a lot of runs and had a high on-base percentage.
